@@ -1,5 +1,5 @@
 # Airbnb1
-A Data Analysis project regarding Airbnb operations in Boston
+A Data Analysis project regarding Airbnb operations in Boston.
 
 This project aims to explore informations about a data set regarding Boston's Airbnb registered dwellings.
 
