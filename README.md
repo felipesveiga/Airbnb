@@ -12,3 +12,5 @@ I've challenged myself to perform the following tasks:
 3 - Find out whether Airbnb superhosts take advantadge of their status in order to charge higher prices to their customers.
 
 4 - Discover if it is more expensive to stay in Boston's richer neighborhoods than in other areas of the city.
+
+Obs: If you are on GitHub and cannot see the sunburst chart, please access the 'sunburst.png' file that is present in this same repository!
